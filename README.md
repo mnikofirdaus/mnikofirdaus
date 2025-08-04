@@ -1,38 +1,32 @@
-### <p align="center"> Hi 👋, I'm M. Niko Firdaus  
-#### <p align="center"> Android Developer
+## Hi 👋, I'm M. Niko Firdaus — Mobile & Web Developer
 
-<!-- - 💬 Ask me about Kotlin
-- 📫 How to reach me: firdaus.m.niko@gmail.com -->
+I’m a passionate **Mobile Apps Developer** and **Web Developer** with strong experience in building fast, efficient, and user-friendly applications. I specialize in native Android development using **Kotlin**, cross-platform apps using **Flutter**, frontend interfaces using **Vue.js**, and backend RESTful APIs using **Laravel**.
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+## 🧰Tech Stack
 
-<!-- ![M. Niko Firdaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnikofirdaus&show_icons=true&theme=radical) -->
+**Mobile Development:**
+- Kotlin (Native Android Development)
+- Flutter (Cross-platform Mobile Development)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnikofirdaus&theme=tokyonight) -->
+**Web Development:**
+- Vue.js (Frontend)
+- Laravel (Backend & API Development)
 
+## 🧩 Skills
 
+- UI/UX design for both mobile and web
+- RESTful API integration
+- Firebase & Laravel Passport authentication
+- State management (Vuex, Provider)
+- Mobile-first responsive design
+- CI/CD & deployment to Google Play Store
 
-<!--
-**mnikofirdaus/mnikofirdaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact Me
 
-Here are some ideas to get you started:
+- [Email Me](mailto:mnf@gmail.com)  
+- [Connect on LinkedIn](https://linkedin.com/in/m-niko-firdaus-78136336b)  
+- [Follow me on GitHub](https://https://github.com/mnikofirdaus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+I'm open to new project collaborations, remote work opportunities, or freelance gigs. Feel free to reach out!

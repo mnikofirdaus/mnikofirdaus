@@ -25,7 +25,7 @@ I’m a passionate **Mobile Apps Developer** and **Web Developer** with strong e
 
 - [Email Me](mailto:mnf@gmail.com)  
 - [Connect on LinkedIn](https://linkedin.com/in/m-niko-firdaus-78136336b)  
-- [Follow me on GitHub](https://https://github.com/mnikofirdaus)
+- [Follow me on GitHub](https://github.com/mnikofirdaus)
 
 ##
 
